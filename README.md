@@ -3,7 +3,7 @@
 <h3 align="center">A junior frontend developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" />
 
-- ⚆ I’m currently learning **React**
+- 🔎 I’m currently learning **React**
 
 - 📫 How to reach me **esgerlianar003@gmail.com**
 
