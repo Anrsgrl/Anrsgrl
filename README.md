@@ -1,7 +1,7 @@
-[![MasterHead](https://weheartit.com/ewkeisk/collections/185634386-arts-for-edits)]
+[![MasterHead](https://data.whicdn.com/images/360371223/original.gif)]
 <h1 align="center">Hi 👋, I'm Anar Asgarli</h1>
 <h3 align="center">A junior frontend developer from Azerbaijan</h3>
-img align="right" alt="Coding" width="400" src="http://www.wouterbongaerts.com/gif"
+img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"
 
 - 🌱 I’m currently learning **React**
 
@@ -21,5 +21,3 @@ img align="right" alt="Coding" width="400" src="http://www.wouterbongaerts.com/g
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anrsgrl&show_icons=true&locale=en&layout=compact" alt="anrsgrl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anrsgrl&show_icons=true&locale=en" alt="anrsgrl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anrsgrl&" alt="anrsgrl" /></p>
