@@ -1,7 +1,7 @@
 ![MasterHead](https://data.whicdn.com/images/360371223/original.gif)
 <h1 align="center">Hi 👋, I'm Anar Asgarli</h1>
 <h3 align="center">A junior frontend developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=750w" />
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" />
 
 - 🌱 I’m currently learning **React**
 
