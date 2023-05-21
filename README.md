@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Anar Asgarli</h1>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=anrsgrl&icon=1&color=3)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
