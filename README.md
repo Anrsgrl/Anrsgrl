@@ -1,6 +1,7 @@
-# Hi, I'm Anar Asgarli.<br>A junior frontend developer from Azerbaijan
+# <h1 align="center> Hi, I'm Anar Asgarli.<br>A junior frontend developer from Azerbaijan </h1>
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=anrsgrl&icon=1&color=3)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anar.esgerli.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anar-asgarli-0ba4a11b0) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20816138) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ana7r) 
 
@@ -11,10 +12,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anrsgrl&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anrsgrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anrsgrl&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=anrsgrl&icon=1&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
