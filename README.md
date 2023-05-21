@@ -1,4 +1,5 @@
-<span align="center">Hi, I'm Anar Asgarli</span>
+<h1 align="center">Hi, I'm Anar Asgarli</h1>
+<h3 align="center">A junior frontend developer from Azerbaijan</h3>
 
 ---
 
