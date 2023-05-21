@@ -9,12 +9,12 @@
 
 - 🌙 <a href="https://portfolio-anrsgrl.netlify.app" target="_blank" rel="noreferrer">Click here </a> to see my portfolio website
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anar-asgarli-0ba4a11b0/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anar asgarli" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20816138" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20816138" height="30" width="40" /></a>
 <a href="https://discord.gg/GVNS2ZxV" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/639490168763580438" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
