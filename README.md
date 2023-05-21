@@ -3,7 +3,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=anrsgrl&icon=1&color=3)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=anrsgrl&icon=1&color=3)](https://visitcount.itsvg.in) -->
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anar.esgerli.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anar-asgarli-0ba4a11b0) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20816138) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ana7r) 
 
