@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://data.whicdn.com/images/360371223/original.gif) -->
 <h1 align="center">Hi, I'm Anar Asgarli</h1>
 <h3 align="center">A junior frontend developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" />
+<!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" /> -->
 
 - 🔎 I’m currently learning **Redux and MUI**
 
@@ -9,12 +9,12 @@
 
 - 🌙 <a href="https://portfolio-anrsgrl.netlify.app" target="_blank" rel="noreferrer">Click here </a> to see my portfolio website
 
-<!-- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anar-asgarli-0ba4a11b0/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anar asgarli" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20816138" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20816138" height="30" width="40" /></a>
 <a href="https://discord.gg/GVNS2ZxV" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/639490168763580438" height="30" width="40" /></a>
-</p> -->
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
