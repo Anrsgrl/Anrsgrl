@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anar Asgarli</h1>
+<span align="center">Hi, I'm Anar Asgarli</span>
 
 ---
 
