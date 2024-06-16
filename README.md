@@ -1,8 +1,3 @@
-<h1 align="center">Hi, I'm Anar Asgarli</h1>
-<h3 align="center">Frontend developer from Azerbaijan</h3>
-
----
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anar-asgarli/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20816138)
 
