@@ -1,7 +1,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anar-asgarli/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20816138)
 
-## 🕐 Wakatime
+## 🕐 Coding time
 ### Since Jan 5 2024
 [![wakatime](https://wakatime.com/badge/user/018cdafe-e1a2-4340-ad12-0b1c64c78a3e.svg)](https://wakatime.com/@018cdafe-e1a2-4340-ad12-0b1c64c78a3e)
 
